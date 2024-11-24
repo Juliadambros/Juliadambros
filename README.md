@@ -1,3 +1,4 @@
+<h1 align="center">✨ Bem-vindo ao meu GitHub ✨</h1>
 <p align="center">
   🎓 Estudante de Ciência da Computação na UNICENTRO <br>
 </p>
