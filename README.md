@@ -39,7 +39,6 @@
 
 ### 📊 **Estatísticas**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juliadambros&show_icons=true&theme=calm&hide_border=true" alt="Estatísticas do GitHub" width="45%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliadambros&layout=compact&theme=calm&hide_border=true" alt="Linguagens Mais Usadas" width="45%">
 </p>
 
