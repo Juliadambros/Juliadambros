@@ -1,9 +1,3 @@
-<h1 align="center">✨ Bem-vindo ao meu GitHub ✨</h1>
-<p align="center">
-  🎓 Estudante de Ciência da Computação na UNICENTRO <br>
-</p>
-
----
 
 ### 🌟 **Sobre mim**
 - 📚 Atualmente estudando **Python**, **C++**, e **Java**
@@ -11,24 +5,21 @@
 - 📫 Contato1: [julia.dambros.ju@gmail.com](mailto:julia.dambros.ju@gmail.com)
 - 📫 Contato2: [57023740017@unicentro.edu.br](mailto:57023740017@unicentro.edu.br)
 
----
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  /> 
+  <img width="12" /></br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
+  <img width="12" /></br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
+  <img width="12" /></br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
+  <img width="12" /></br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
+  <img width="12" /></br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
-
----
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Juliadambros&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=moltack&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juliadambros&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=moltack&hide_border=false&order=2" height="150" alt="languages graph"  />
