@@ -1,9 +1,9 @@
- **Sobre mim**
-Atualmente estudando **Python**, **C++**, e **Java**
-Interesses: Machine Learning, Cybersecurity, e Ciência de Dados
-Contato1: [julia.dambros.ju@gmail.com](mailto:julia.dambros.ju@gmail.com)
-Contato2: [57023740017@unicentro.edu.br](mailto:57023740017@unicentro.edu.br)
+<div align="center">
+  <h1 style="color:#E6B450;"> Bem-vindo(a) ao meu GitHub! </h1>
+</div>
 
+Atualmente estudando <span style="color:#D27D68;"><b>Python</b></span>, <span style="color:#D27D68;"><b>C++</b></span> e <span style="color:#D27D68;"><b>Java</b></span>  
+Interesses por <span style="color:#E6B450;"><b>Machine Learning</b></span>, <span style="color:#E6B450;"><b>Cybersecurity</b></span> e <span style="color:#E6B450;"><b>Ciência de Dados</b></span>  
 
 <div align="center">
 
