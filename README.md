@@ -9,7 +9,7 @@ Atualmente estudando **Python**, **C++** e **Java**.
 Interesses em **Machine Learning**, **Cybersecurity** e **Ciência de Dados**.  
 
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" alt="Google Cloud" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
@@ -17,6 +17,8 @@ Interesses em **Machine Learning**, **Cybersecurity** e **Ciência de Dados**.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" />
 </div>
+
+</br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Juliadambros&show_icons=true&include_all_commits=true&count_private=true&theme=moltack&hide_border=true" height="160" alt="GitHub Stats" />
