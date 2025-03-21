@@ -26,7 +26,7 @@ Interesses por <span style="color:#E6B450;"><b>Machine Learning</b></span>, <spa
 </div>
 
 <span style="color:#E6B450;">Contato</span>  
-<b>E-mail pessoal:</b> <a href="mailto:julia.dambros.ju@gmail.com" style="color:#C99076;">julia.dambros.ju@gmail.com</a>  
-<b>E-mail acadêmico:</b> <a href="mailto:57023740017@unicentro.edu.br" style="color:#C99076;">57023740017@unicentro.edu.br</a>
-<b>Linkedin:</b>  <a href="https://www.linkedin.com/in/j%C3%BAlia-dambr%C3%B3s-5215352a8/" target="_blank"></a>
+E-mail pessoal: <a href="mailto:julia.dambros.ju@gmail.com" style="color:#C99076;">julia.dambros.ju@gmail.com</a> </br> 
+E-mail acadêmico:<a href="mailto:57023740017@unicentro.edu.br" style="color:#C99076;">57023740017@unicentro.edu.br</a></br>
+Linkedin:<a href="https://www.linkedin.com/in/j%C3%BAlia-dambr%C3%B3s-5215352a8/" target="_blank">Júlia Dambrós</a>
 
