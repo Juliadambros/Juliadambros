@@ -1,20 +1,19 @@
 <div align="center">
 
-# <span style="color:#E6B450; font-weight: bold;">Bem-vindo(a) ao meu GitHub</span>
+# Bem-vindo(a) ao meu GitHub  
 
 </div>
 
 ---
 
-## <span style="color:#E6B450; font-weight: bold;">Sobre mim</span>  
+## Sobre mim  
 
-Atualmente estudando <span style="color:#D27D68; font-weight: bold;">Python</span>, <span style="color:#D27D68; font-weight: bold;">C++</span> e <span style="color:#D27D68; font-weight: bold;">Java</span>.  
-Interesses em <span style="color:#E6B450; font-weight: bold;">Machine Learning</span>, <span style="color:#E6B450; font-weight: bold;">Cybersecurity</span> e <span style="color:#E6B450; font-weight: bold;">Ciência de Dados</span>.  
+Atualmente estudando **Python**, **C++** e **Java**.  
+Interesses em **Machine Learning**, **Cybersecurity** e **Ciência de Dados**.  
 
+--- 
 
-## <span style="color:#E6B450; font-weight: bold;">Tech Stack</span>  
-
-<div align="left" style="display: flex; gap: 15px;">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" alt="Google Cloud" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
@@ -24,15 +23,16 @@ Interesses em <span style="color:#E6B450; font-weight: bold;">Machine Learning</
 </div>
 
 
-## <span style="color:#E6B450; font-weight: bold;">GitHub Stats</span>  
+## GitHub Stats  
 
-<div align="center" style="display: flex; gap: 20px;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Juliadambros&show_icons=true&include_all_commits=true&count_private=true&theme=moltack&hide_border=true" height="160" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juliadambros&layout=compact&langs_count=5&theme=moltack&hide_border=true" height="160" alt="Top Langs" />
 </div>
 
+---
 
-## <span style="color:#E6B450; font-weight: bold;">Contato</span>  
+## Contato  
 
 **E-mail pessoal:** [julia.dambros.ju@gmail.com](mailto:julia.dambros.ju@gmail.com)  
 **E-mail acadêmico:** [57023740017@unicentro.edu.br](mailto:57023740017@unicentro.edu.br)  
