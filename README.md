@@ -1,12 +1,10 @@
 <div align="center">
 
-# Bem-vindo(a) ao meu GitHub  
+Bem-vindo(a) ao meu GitHub  
 
 </div>
 
----
-
-## Sobre mim  
+Sobre mim  
 
 Atualmente estudando **Python**, **C++** e **Java**.  
 Interesses em **Machine Learning**, **Cybersecurity** e **Ciência de Dados**.  
@@ -23,7 +21,7 @@ Interesses em **Machine Learning**, **Cybersecurity** e **Ciência de Dados**.
 </div>
 
 
-## GitHub Stats  
+GitHub Stats  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Juliadambros&show_icons=true&include_all_commits=true&count_private=true&theme=moltack&hide_border=true" height="160" alt="GitHub Stats" />
@@ -32,7 +30,7 @@ Interesses em **Machine Learning**, **Cybersecurity** e **Ciência de Dados**.
 
 ---
 
-## Contato  
+Contato  
 
 **E-mail pessoal:** [julia.dambros.ju@gmail.com](mailto:julia.dambros.ju@gmail.com)  
 **E-mail acadêmico:** [57023740017@unicentro.edu.br](mailto:57023740017@unicentro.edu.br)  
