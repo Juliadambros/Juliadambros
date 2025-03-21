@@ -8,7 +8,7 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
   
-  <div style="display: flex; flex-direction: column; align-items: right; margin-right: 20px;">
+  <div style="display: flex; flex-direction: column; align-items: right;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" /> </br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" /></br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /></br>
