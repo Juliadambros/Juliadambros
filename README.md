@@ -1,28 +1,31 @@
+ **Sobre mim**
+Atualmente estudando **Python**, **C++**, e **Java**
+Interesses: Machine Learning, Cybersecurity, e Ciência de Dados
+Contato1: [julia.dambros.ju@gmail.com](mailto:julia.dambros.ju@gmail.com)
+Contato2: [57023740017@unicentro.edu.br](mailto:57023740017@unicentro.edu.br)
 
-### 🌟 **Sobre mim**
-- 📚 Atualmente estudando **Python**, **C++**, e **Java**
-- ✨ Interesses: Machine Learning, Cybersecurity, e Ciência de Dados
-- 📫 Contato1: [julia.dambros.ju@gmail.com](mailto:julia.dambros.ju@gmail.com)
-- 📫 Contato2: [57023740017@unicentro.edu.br](mailto:57023740017@unicentro.edu.br)
 
+<div align="center">
 
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-  
-  <div style="display: flex; flex-direction: column; align-items: right;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" /> </br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" /></br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /></br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" /></br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" /></br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" /></br>
-  </div>
-
-  <div style="display: flex; flex-direction: column; align-items: left;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Juliadambros&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=moltack&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juliadambros&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=moltack&hide_border=true&order=2" height="150" alt="languages graph" />
-  </div>
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" /><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" /><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" /><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" /><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Juliadambros&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=moltack&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /><br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juliadambros&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=moltack&hide_border=true&order=2" height="150" alt="languages graph" />
+      </td>
+    </tr>
+  </table>
 
 </div>
+
 
 
 
