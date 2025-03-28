@@ -22,7 +22,7 @@ Interesses em **Machine Learning**, **Cybersecurity** e **Ciência de Dados**.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Juliadambros&show_icons=true&include_all_commits=true&count_private=true&theme=moltack&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juliadambros&layout=compact&langs_count=5&theme=moltack&hide_border=true" height="160" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juliadambros&layout=compact&langs_count=6&theme=moltack&hide_border=true" height="160" alt="Top Langs" />
 </div>
 
 ---
